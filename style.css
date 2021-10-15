@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-weight: bold;
+font-style: italic;
+}
+
+#status,#presence_of_baby
+{
+font-size: 18px;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 25px;
+    margin-top: 100px;
+}
